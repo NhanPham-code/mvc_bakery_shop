@@ -1,0 +1,493 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BakeryShop.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BakeryShop.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\AccountManagement.css",
+      "PackagePath": "staticwebassets\\css\\AccountManagement.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\AdminOrder.css",
+      "PackagePath": "staticwebassets\\css\\AdminOrder.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\Cart.css",
+      "PackagePath": "staticwebassets\\css\\Cart.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\DetailPage.css",
+      "PackagePath": "staticwebassets\\css\\DetailPage.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\Forgot.css",
+      "PackagePath": "staticwebassets\\css\\Forgot.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\ProductManagment.css",
+      "PackagePath": "staticwebassets\\css\\ProductManagment.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\COMBO IMG\\buffet.png",
+      "PackagePath": "staticwebassets\\img\\COMBO IMG\\buffet.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\COMBO IMG\\ny25.png",
+      "PackagePath": "staticwebassets\\img\\COMBO IMG\\ny25.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\COMBO IMG\\price.jpg",
+      "PackagePath": "staticwebassets\\img\\COMBO IMG\\price.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\COMBO IMG\\top.jpg",
+      "PackagePath": "staticwebassets\\img\\COMBO IMG\\top.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\ICON\\loc.jpg",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\ICON\\loc.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\ICON\\mail.jpg",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\ICON\\mail.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\ICON\\phone.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\ICON\\phone.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\Cake.jpg",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\Cake.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\bread.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\bread.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\dhp.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\dhp.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\hnt.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\hnt.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\phn.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\phn.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\tcun.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\tcun.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\CONTACT\\US\\vhd.png",
+      "PackagePath": "staticwebassets\\img\\CONTACT\\US\\vhd.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\LOGO\\_com2.png",
+      "PackagePath": "staticwebassets\\img\\LOGO\\_com2.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Background\\Bakery.jpg",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Background\\Bakery.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Background\\contact.jpg",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Background\\contact.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Bread\\Croissant.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Bread\\Croissant.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Bread\\Golden Lava Bun.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Bread\\Golden Lava Bun.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Bread\\Gourment Fruit Loaf.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Bread\\Gourment Fruit Loaf.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Bread\\Sausage Standard.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Bread\\Sausage Standard.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Bread\\Spring In The City.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Bread\\Spring In The City.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Berry Choco.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Berry Choco.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Brownie Cheese Sliced.jpg",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Brownie Cheese Sliced.jpg"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Bunny.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Bunny.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Chocolate Peanut Mousse.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Chocolate Peanut Mousse.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Les Opera Sliced.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Les Opera Sliced.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Cake slice\\Oreo Chocolate Cheese.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Cake slice\\Oreo Chocolate Cheese.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\Chocolate Bun.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\Chocolate Bun.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\Chocolate Croissant.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\Chocolate Croissant.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\Goma Croissant.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\Goma Croissant.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\Matcha Bun.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\Matcha Bun.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\Ultimate Choco Croissant.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\Ultimate Choco Croissant.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Savory\\White Choco Croissant.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Savory\\White Choco Croissant.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Les Opera.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Les Opera.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\MangoCoCo Cake.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\MangoCoCo Cake.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Party Pink.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Party Pink.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Passion Cheese.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Passion Cheese.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Rainbow.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Rainbow.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Snowy Fruity.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Snowy Fruity.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Special\\Tiramisu.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Special\\Tiramisu.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Sweet\\Chocolate Donut.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Sweet\\Chocolate Donut.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Sweet\\Croffle Chocolate Black.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Sweet\\Croffle Chocolate Black.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Sweet\\Croffle Chocolate White.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Sweet\\Croffle Chocolate White.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Sweet\\Flan Cake.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Sweet\\Flan Cake.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\img\\PRODUCT\\Sweet\\Japan Light Cheese.png",
+      "PackagePath": "staticwebassets\\img\\PRODUCT\\Sweet\\Japan Light Cheese.png"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\js\\AccountManagement.js",
+      "PackagePath": "staticwebassets\\js\\AccountManagement.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\js\\AdminOrder.js",
+      "PackagePath": "staticwebassets\\js\\AdminOrder.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\js\\DetailPage.js",
+      "PackagePath": "staticwebassets\\js\\DetailPage.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\js\\Login.js",
+      "PackagePath": "staticwebassets\\js\\Login.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\D\\CODE\\C#\\PRN222_Bakery_Shop\\mvc_bakery_shop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BakeryShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BakeryShop.props",
+      "PackagePath": "build\\BakeryShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BakeryShop.props",
+      "PackagePath": "buildMultiTargeting\\BakeryShop.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BakeryShop.props",
+      "PackagePath": "buildTransitive\\BakeryShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

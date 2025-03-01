@@ -267,7 +267,7 @@ input {
         }
 
 /* Kiểu dáng cho các liên kết */
-.a {
+.forgot a {
     color: #333;
     font-size: 14px;
     text-decoration: none;
@@ -275,7 +275,7 @@ input {
 }
 
 /* Hiệu ứng khi di chuột qua các liên kết */
-a:hover {
+.forgot a:hover {
     color: #c73e07; /* Thay đổi màu liên kết khi hover */
     text-decoration: underline; /* Thêm gạch chân khi hover */
     transition: color 0.3s ease, text-decoration 0.3s ease; /* Hiệu ứng chuyển đổi mượt mà */
@@ -336,7 +336,7 @@ a:hover {
 
 .background {
     padding: 2.5rem;
-    min-height: 74vh;
+    min-height: 80vh;
     background-image: url('/img/PRODUCT/Background/Bakery.jpg');
     background-size: cover; /* Ensures the image covers the entire element */
     background-position: center; /* Centers the image */

@@ -17,19 +17,26 @@ body {
     
 }
 .background {
-    padding: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Đảm bảo nó chiếm toàn bộ chiều cao màn hình */
+    padding: 2.5rem;
     background-image: url('/img/PRODUCT/Background/Bakery.jpg');
-    background-size: cover; /* Ensures the image covers the entire element */
-    background-position: center; /* Centers the image */
-    height: 72dvh;
+    background-size: cover;
+    background-position: center;
 }
 
 .container2 {
     background: white;
     border-radius: 10px;
-    display: flex;
-    width: 750px; /* Kích thước khung lớn hơn */
+    width: 600px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    margin: auto; /* Căn giữa theo chiều ngang */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Căn giữa nội dung bên trong */
+    justify-content: center; /* Căn giữa theo chiều dọc nếu cần */
 }
 
 .form-section {

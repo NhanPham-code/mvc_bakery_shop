@@ -24,7 +24,7 @@
         <div class="container" id="container">
             <!-- Sign Up Form -->
             <div class="form-container sign-up-container">
-                <form action="#">
+                <form asp-action="" asp-controller="">
                     <h1 style="margin: 20px">Register</h1>
 
                     <!-- Tên người dùng -->
@@ -49,22 +49,24 @@
                     <span class="error-message" id="signupPasswordError"></span>
 
 
-                    <button type="submit">Register</button>
+                    <button type="submit" class="btn">Register</button>
                     <a class="cancel-link">Cancel</a>
                 </form>
             </div>
 
             <!-- Sign In Form -->
             <div class="form-container sign-in-container">
-                <form action="#">
+                <form asp-action="" asp-controller="">
                     <h1 style="margin: 20px">Sign In</h1>
                     <input type="email" placeholder="Email" required />
                     <div class="password-container">
                         <input type="password" id="password" placeholder="Password" required />
                         <i class="fas fa-eye" id="togglePassword" style="cursor: pointer;" aria-label="Show password"></i>
                     </div>
-                    <a href="ForgotPassword.html">Forgot password</a>
-                    <button type="submit">Log</button>
+                    <div class="forgot">
+                        <a href="ForgotPassword.html">Forgot password</a>
+                    </div>
+                    <button type="submit" class="btn">Log</button>
                     <a class="cancel-link">Cancel</a>
                 </form>
             </div>
@@ -74,12 +76,12 @@
                     <div class="overlay-panel overlay-left">
                         <h1>Welcome back!</h1>
                         <p>Enter your personal information to stay in touch with us</p>
-                        <button class="ghost" id="signIn">Sign In</button>
+                        <button class="btn" id="signIn">Sign In</button>
                     </div>
                     <div class="overlay-panel overlay-right">
                         <h1>Hello!</h1>
                         <p>Enter your personal information to start your journey with us</p>
-                        <button class="ghost" id="signUp">Register</button>
+                        <button class="btn" id="signUp">Register</button>
                     </div>
                 </div>
             </div>
